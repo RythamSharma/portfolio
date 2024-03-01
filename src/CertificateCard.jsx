@@ -2,7 +2,7 @@ export default function CertificationCard(props) {
   return (
     <>
       <div
-        className="card-container border-solid border-gray-50 p-4 flex flex-col justify-start pb-6"
+        className="card-container border-solid transition-transform duration-500 ease-in-out hover:scale-105 border-gray-50 p-4 flex flex-col justify-start pb-6"
         style={{
           width: "20rem",
           border: "0.5px solid #0369a1",
@@ -24,7 +24,7 @@ export default function CertificationCard(props) {
           </p>
         </div>
         <button
-          className="px-5 py-1 rounded-xl my-4 flex view-credential-btn"
+          className="px-5 py-2 rounded-xl my-4  flex view-credential-btn"
           style={{
             backgroundColor: "#0284c7",
             color: "#fff",
@@ -32,7 +32,7 @@ export default function CertificationCard(props) {
           }}
         >
           <a href={props.Link} target="_blank">
-            View credential
+            View Credential
           </a>
         </button>
       </div>

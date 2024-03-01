@@ -2,7 +2,7 @@ export default function SkillCard(props) {
   return (
     <>
       <div
-        className="container flex flex-col align-center p-5 justify-center"
+        className="container flex flex-col align-center p-5 transition-transform ease-in-out duration-500 hover:scale-105 justify-center"
         style={{
           borderRadius: "20px",
           border: "0.5px solid #334155",

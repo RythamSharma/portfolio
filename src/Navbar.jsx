@@ -69,7 +69,7 @@ export default function Navbar() {
             Skills
           </a>
           <a href="#workex-container" className="workex">
-            Work Exp
+            Work
           </a>
           <a href="#projects-container" className="project">
             Projects
@@ -122,7 +122,7 @@ export default function Navbar() {
             className="workex"
             onClick={handleNavItemClick}
           >
-            Work Exp
+            Work
           </a>
           <a
             href="#projects-container"

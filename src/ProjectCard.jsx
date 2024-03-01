@@ -1,7 +1,7 @@
 export default function ProjectCard(props) {
   return (
     <div
-      className="project-container flex flex-col align-center p-5"
+    className="project-container flex flex-col align-center p-5 transition-transform duration-500 ease-in-out transform-gpu hover:scale-105"
       style={{
         borderRadius: "20px",
         border: "0.5px solid #0369a1",
@@ -26,7 +26,7 @@ export default function ProjectCard(props) {
         {props.GithubLink && (
           <a
             href={props.GithubLink}
-            className="btn w-full h-9 text-center pt-1 rounded-lg"
+            className="view-credential-btn2 w-full h-9 text-center pt-1 rounded-lg"
             style={{
               backgroundColor: "#e0f2fe",
               color: "#0284c7",
@@ -42,12 +42,12 @@ export default function ProjectCard(props) {
         {props.Demo && (
           <a
             href={props.Demo}
-            className="btn w-full rounded-lg pt-1 text-center "
+            className="-btn w-full rounded-lg pt-1 text-center  "
             style={{ backgroundColor: "#0ea5e9", color: "#fff" }}
             target="_blank"
             rel="noopener noreferrer"
           >
-            Demo
+            Visit
           </a>
         )}
       </div>

@@ -18,8 +18,7 @@
 .container:hover {
   box-shadow: 0 14px 28px rgba(51, 65, 85, 0.25),
     0 10px 10px rgba(51, 65, 85, 0.22);
-  transform: scaleY(1.05) scaleX(1.05);
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
 .about:active,
 .home:active,
@@ -45,8 +44,8 @@
 }
 .view-credential-btn:hover {
   background-color: #0369a1 !important;
+  transition: all 0.3s ease;
 }
-
 .wave {
   display: inline-block;
   animation: wave-animation 1.3s infinite;
