@@ -132,13 +132,6 @@ export default function Navbar() {
             Projects
           </a>
           <a
-            href="#publications-container"
-            className="publication"
-            onClick={handleNavItemClick}
-          >
-            Publications
-          </a>
-          <a
             href="#certifications-container"
             className="certification"
             onClick={handleNavItemClick}
