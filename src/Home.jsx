@@ -10,7 +10,7 @@ export default function Home() {
         className="home flex flex-col items-center justify-center gap-4 h-screen align-center"
         // style={{ margin: "13rem auto 17rem auto" }}
       >
-        <p className="name font-medium text-white  md:text-8xl content-center">
+        <p className=" text-white text-5xl md:text-8xl content-center">
           Rytham <span className="text-sky-500">Sharma</span>
         </p>
         <p className="title text-white text-2xl">
