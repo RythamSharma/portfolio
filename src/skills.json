@@ -1,0 +1,87 @@
+[
+  {
+    "name": "HTML",
+    "path": "./HTML.svg"
+  },
+  {
+    "name": "CSS",
+    "path": "./css.svg"
+  },
+  {
+    "name": "JavaScript",
+    "path": "./javascript.svg"
+  },
+  {
+    "name": "TypeScript",
+    "path": "./typescriptlang-icon.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "path": "./bootstrap-5-1.svg"
+  },
+  {
+    "name": "Tailwind",
+    "path": "./tailwind-css-2.svg"
+  },
+
+  {
+    "name": "React",
+    "path": "./react.svg"
+  },
+  {
+    "name": "Figma",
+    "path": "./figma.svg"
+  },
+  {
+    "name": "Node.js",
+    "path": "./nodejs-icon.svg"
+  },
+  {
+    "name": "Express JS",
+    "path": "./icons8-express-js.svg"
+  },
+  {
+    "name": "Python",
+    "path": "./python.svg"
+  },
+  {
+    "name": "SQL",
+    "path": "./sql.svg"
+  },
+  {
+    "name": "MongoDB",
+    "path": "./mongodb-icon.svg"
+  },
+  {
+    "name": "Postgresql",
+    "path": "./postgresql-icon.svg"
+  },
+  {
+    "name": "Prisma",
+    "path": "./prisma.svg"
+  },
+  {
+    "name": "Git & Github",
+    "path": "./github.svg"
+  },
+  {
+    "name": "Java",
+    "path": "./java.svg"
+  },
+  {
+    "name": "AWS",
+    "path": "./aws-logo.png"
+  },
+  {
+    "name": "Docker",
+    "path": "./docker.svg"
+  },
+  {
+    "name": "Postman",
+    "path": "./postman.svg"
+  },
+  {
+    "name": "VS Code",
+    "path": "./visual-studio-code.svg"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "Evalutron - A fully AI based Evaluation System",
+    "Desc": "The AI Based Exam evaluation System' , That Makes the job of exam evaluation automated and fair. Which means that if you are a teacher you just have to make question paper on our platform, Then the students will answer the questions on their free will. And once done, The teacher or students can simply see the evaluated results.",
+    "GithubLink": "https://github.com/RythamSharma/evalutron",
+    "Demo": "https://evalutron3.netlify.app/",
+    "ImgSrc": "./project3.jpeg"
+  },
+
+  {
+    "Name": "StingHike- A self earning investment App",
+    "Desc": "A client work which is a self Earning App built for people to invest their money where my role in team was Frontend developer which enhanced my ReactJS skills ",
+    "GithubLink": "https://github.com/tanishqsoni24/newMont",
+    "Demo": "stinghike.com",
+    "ImgSrc": "./project4.png"
+  },
+
+  {
+    "Name": "VideoTube- A video Streaming App",
+    "Desc": "Developed a video streaming app called videotube which is a complete solo project which provides all necessary features for a video streaming app like upload video, stream video, make playlists, subscriptions, likes, video history etc",
+    "GithubLink": "https://github.com/RythamSharma/Videotube",
+    "Demo": "",
+    "ImgSrc": "./videotube.jpg"
+  },
+
+  {
+    "Name": "Murli - A Lord Krishna Guide based on Bhagvat Geeta's Learnings",
+    "Desc": "Murli is a application that combines the power of OpenAI's language models with the timeless wisdom of the Bhagavad Gita to provide personalized advice for individuals facing life's challenges. Drawing inspiration from the teachings of the Bhagavad Gita, Murli offers users practical guidance, aiming to enhance mental stability and overall well-being.",
+    "GithubLink": "https://github.com/RythamSharma/Murli",
+    "Demo": "https://murli2.netlify.app/",
+    "ImgSrc": "./project1.png"
+  }
+]
