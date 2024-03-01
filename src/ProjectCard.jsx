@@ -22,11 +22,11 @@ export default function ProjectCard(props) {
       <p className="text-gray-400 text-sm" style={{ flexGrow: "1" }}>
         {props.Desc}
       </p>
-      <div className="mt-5 mb-3 flex justify-start">
+      <div className="mt-5 mb-3 flex justify-center">
         {props.GithubLink && (
           <a
             href={props.GithubLink}
-            className="btn px-7 rounded"
+            className="btn w-full h-9 text-center pt-1 rounded-lg"
             style={{
               backgroundColor: "#e0f2fe",
               color: "#0284c7",
@@ -42,7 +42,7 @@ export default function ProjectCard(props) {
         {props.Demo && (
           <a
             href={props.Demo}
-            className="btn px-7 rounded"
+            className="btn w-full rounded-lg pt-1 text-center "
             style={{ backgroundColor: "#0ea5e9", color: "#fff" }}
             target="_blank"
             rel="noopener noreferrer"
