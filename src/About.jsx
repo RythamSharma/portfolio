@@ -42,7 +42,7 @@ export default function About() {
           style={{
             margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
-            width: "25rem",
+            width: "22rem",
             position: "relative",
             objectFit: "cover",
           }}
