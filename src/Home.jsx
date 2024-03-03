@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Particle from "./Particle";
+
 export default function Home() {
   return (
     <>

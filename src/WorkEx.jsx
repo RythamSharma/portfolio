@@ -7,7 +7,7 @@ export default function WorkEx() {
         style={{ zIndex: 100, position: "relative" }}
       >
         <h3 className="text-white text-center text-3xl font-bold my-6">
-          Work <span className="text-sky-500" > Experience </span>
+          Work <span className="text-sky-500"> Experience </span>
         </h3>
         <div className="timeline mt-6">
           <div className="timeline-container">

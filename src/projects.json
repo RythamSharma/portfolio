@@ -11,7 +11,7 @@
     "Name": "StingHike- A self earning investment App",
     "Desc": "A client work which is a self Earning App built for people to invest their money where my role in team was Frontend developer which enhanced my ReactJS skills ",
     "GithubLink": "https://github.com/tanishqsoni24/newMont",
-    "Demo": "stinghike.com",
+    "Demo": "http://stinghike.com/",
     "ImgSrc": "./project4.png"
   },
 
@@ -19,7 +19,7 @@
     "Name": "VideoTube- A video Streaming App",
     "Desc": "Developed a video streaming app called videotube which is a complete solo project which provides all necessary features for a video streaming app like upload video, stream video, make playlists, subscriptions, likes, video history etc",
     "GithubLink": "https://github.com/RythamSharma/Videotube",
-    "Demo": "..",
+    "Demo": "https://videotube-five.vercel.app/",
     "ImgSrc": "./videotube.jpg"
   },
 

@@ -9,6 +9,8 @@ import WorkEx from "./WorkEx";
 import Footer from "./Footer";
 
 function App() {
+  
+
   return (
     <div className="bg-slate-950">
       <Navbar />
