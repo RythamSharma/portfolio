@@ -57,12 +57,20 @@
     "path": "./postgresql-icon.svg"
   },
   {
+    "name": "Vim",
+    "path": "./vim.svg"
+  },
+  {
     "name": "Prisma",
     "path": "./prisma.svg"
   },
   {
     "name": "Git & Github",
     "path": "./github.svg"
+  },
+  {
+    "name": "VS Code",
+    "path": "./visual-studio-code.svg"
   },
   {
     "name": "Java",
@@ -81,7 +89,8 @@
     "path": "./postman.svg"
   },
   {
-    "name": "VS Code",
-    "path": "./visual-studio-code.svg"
+    "name": "Bash",
+    "path": "./bash.svg"
   }
+
 ]
