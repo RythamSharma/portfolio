@@ -8,7 +8,7 @@ export default function Projects() {
       style={{ zIndex: 100, position: "relative" }}
     >
       <h3 className="text-white text-center text-3xl font-bold mb-16">
-        Projects
+         Recent <span className="text-sky-500">Projects</span>
       </h3>
 
       <div className="project-list flex flex-wrap gap-x-10 gap-y-16 justify-center">

@@ -26,13 +26,13 @@ export default function About() {
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            With a strong background in web development, I have successfully completed over <span className="text-sky-500"> 15 projects</span>, including <span className="text-sky-500">personal projects </span>, <span className="text-sky-500">client projects </span>, and those from <span className="text-sky-500">hackathons </span>. Notably, I was nominated in the Smart India Hackathon (SIH) in 2023, <span className="text-sky-500">a national-level competition </span>.
+            With a strong background in web development, I have successfully completed  <span className="text-sky-500">over 15 projects</span>, including <span className="text-sky-500">personal projects </span>, <span className="text-sky-500">client projects </span>, and those from <span className="text-sky-500">hackathons </span>. Notably, I was nominated in the Smart India Hackathon (SIH) in 2023, <span className="text-sky-500">a national-level competition </span>.
           </p>
           <p
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently, I am working on two exciting projects - <span className="text-sky-500"> VideoTube</span>, a video streaming website inspired by YouTube, and a self-earning app for a client. My strengths lie in being <span className="text-sky-500">hardworking, disciplined, and a team player </span>, as evidenced by my experience working with clients. While I tend to take time for decision-making, I believe in deep-diving into situations before making informed choices.
+            Currently, I am working on two exciting projects - <span className="text-sky-500"> VideoTube</span>, a video streaming website inspired by YouTube, and <span className="text-sky-500"> StingHike </span> a self-earning app for a client. My strengths lie in being <span className="text-sky-500">hardworking, disciplined, and a team player </span>, as evidenced by my experience working with clients. While I tend to take time for decision-making, I believe in deep-diving into situations before making informed choices.
           </p>
         </div>
         <img
