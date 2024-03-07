@@ -15,11 +15,11 @@
     "ImgSrc": "./microsoft.png"
   },
   {
-    "Name": "C Programming Language Fundamentals",
-    "Company": "IT Skills",
-    "IssueDate": "Dec 2021",
-    "Link": "https://postimg.cc/2q1vZfs3",
-    "ImgSrc": "./IT.jpg"
+    "Name": "Postman API Fundamentals Student Expert",
+    "Company": "Postman",
+    "IssueDate": "Mar 2024",
+    "Link": "https://postimg.cc/zVHXHQNc",
+    "ImgSrc": "./postman.png"
   },
   {
     "Name": "Job Oriented Value Added Course",
@@ -27,5 +27,12 @@
     "IssueDate": "jul 2023",
     "Link": "https://postimg.cc/ftkHyFKv",
     "ImgSrc": "./jovac.jpg"
+  },
+  {
+    "Name": "C Programming Language Fundamentals",
+    "Company": "IT Skills",
+    "IssueDate": "Dec 2021",
+    "Link": "https://postimg.cc/2q1vZfs3",
+    "ImgSrc": "./IT.jpg"
   }
 ]
