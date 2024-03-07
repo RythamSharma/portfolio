@@ -24,10 +24,9 @@ export default function CertificationCard(props) {
           </p>
         </div>
         <button
-          className="px-5 py-2 rounded-xl my-4  flex view-credential-btn"
+          // className="px-5 py-2 rounded-lg my-4 bg-[#0284c7] text-white flex view-credential-btn"
+          className="text-white bg-gradient-to-r from-cyan-500 to-blue-500  focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
           style={{
-            backgroundColor: "#0284c7",
-            color: "#fff",
             margin: " 0 auto",
           }}
         >
