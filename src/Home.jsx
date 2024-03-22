@@ -22,7 +22,7 @@ export default function Home() {
             <i className="fa-solid fa-envelope text-white"></i>
           </a>
           <a
-            href="https://drive.google.com/file/d/1l5CggOez7a1Am4kieI3EQcFfRyaaIaog/view?usp=sharing"
+            href="https://drive.google.com/file/d/1T43ShWqIPosaGZluACT901qLnnAhD83z/view?usp=sharing"
             target="_blank"
           >
             <i className="fa-solid fa-file-lines text-white"></i>
