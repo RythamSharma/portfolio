@@ -7,17 +7,38 @@ export default function WorkEx() {
         style={{ zIndex: 100, position: "relative" }}
       >
         <h3 className="text-white text-center text-3xl font-bold my-6">
-          Work <span className="text-sky-500"> Experience </span>
+          Work <span className="text-sky-500">Experience</span>
         </h3>
         <div className="timeline mt-6">
           <div className="timeline-container">
+          <div className="timeline-block timeline-block-left">
+              <div className="marker"></div>
+              <div className="timeline-content">
+                <h3 className="text-sky-500">SDE Intern</h3>
+                <span className="text-white">Intellewings</span>
+                <p className="text-white mb-3">
+                  <em>May 2024 - Present</em>
+                </p>
+                <p className="text-gray-400 text-justify">
+                  As an SDE Intern at Intellewings, I am gaining valuable
+                  experience working with a diverse tech stack including Angular
+                  and .NET Core. My responsibilities involve developing and
+                  maintaining web applications, collaborating with cross-functional
+                  teams to design scalable solutions, and ensuring optimal
+                  performance and user experience. This role has allowed me to
+                  enhance my proficiency in both frontend and backend
+                  development, and apply best practices in software engineering
+                  to solve complex problems and deliver high-quality projects
+                </p>
+              </div>
+            </div>
             <div className="timeline-block timeline-block-right">
               <div className="marker"></div>
               <div className="timeline-content">
-                <h3 className="text-sky-500">Web Developer Trainee </h3>
-                <span className="text-white">Cohort 2.0 </span>
+                <h3 className="text-sky-500">Web Developer Trainee</h3>
+                <span className="text-white">Cohort 2.0</span>
                 <p className="text-white mb-3">
-                  <em>nov 2023 - Present</em>
+                  <em>Nov 2023 - May 2024</em>
                 </p>
                 <p className="text-gray-400 text-justify">
                   I am pursuing an intensive web development training program,
@@ -43,7 +64,7 @@ export default function WorkEx() {
                 <h3 className="text-sky-500">Freelance Front-end Dev</h3>
                 <span className="text-white">StingHike</span>
                 <p className="text-white mb-3">
-                  <em>Sep 2023 - Oct 2023 </em>
+                  <em>Sep 2023 - Oct 2023</em>
                 </p>
                 <p className="text-justify text-gray-400">
                   I played a pivotal role as a Frontend Developer in a client

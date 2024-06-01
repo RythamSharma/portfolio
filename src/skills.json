@@ -91,6 +91,14 @@
   {
     "name": "Bash",
     "path": "./bash.svg"
+  },
+  {
+    "name": "Angular",
+    "path": "./angular.svg"
+  },
+  {
+    "name": "Dot Net Core",
+    "path": "./dot-net.svg"
   }
 
 ]

@@ -5,7 +5,7 @@ export default function About() {
     <>
       <div
         id="about-section"
-        className="about-section-container flex gap-5 justify-between  py-20 bg-slate-900"
+        className="about-section-container flex gap-5 justify-between py-20 bg-slate-900"
         style={{ zIndex: 100, position: "relative" }}
       >
         <div className="text-start">
@@ -19,20 +19,20 @@ export default function About() {
             className="introduction-para text-white"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently a <span className="text-sky-500"> 3rd-year B.Tech student</span>  at GLA University, Mathura, I am based in Uttar Pradesh. I am a results-driven
-            <span className="text-sky-500"> Full Stack Developer</span> proficient in technologies like <span className="text-sky-500"> HTML, CSS, JavaScript, and the MERN stack</span> . My skills also include <span className="text-sky-500"> Docker, Bootstrap, TailwindCSS, GitHub, and Postman.</span> 
+            Currently a <span className="text-sky-500">4th-year B.Tech student</span> at GLA University, Mathura, I am based in Uttar Pradesh. I am a results-driven
+            <span className="text-sky-500"> Full Stack Developer</span> proficient in technologies like <span className="text-sky-500">HTML, CSS, JavaScript, Angular, .NET, and the MERN stack</span>. My skills also include <span className="text-sky-500">Docker, Bootstrap, TailwindCSS, GitHub, and Postman.</span>
           </p>
           <p
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            With a strong background in web development, I have successfully completed  <span className="text-sky-500">over 15 projects</span>, including <span className="text-sky-500">personal projects </span>, <span className="text-sky-500">client projects </span>, and those from <span className="text-sky-500">hackathons </span>. Notably, I was nominated in the Smart India Hackathon (SIH) in 2023, <span className="text-sky-500">a national-level competition </span>.
+            With a strong background in web development, I have successfully completed <span className="text-sky-500">over 15 projects</span>, including <span className="text-sky-500">personal projects</span>, <span className="text-sky-500">client projects</span>, and those from <span className="text-sky-500">hackathons</span>. Notably, I was nominated in the Smart India Hackathon (SIH) in 2023, <span className="text-sky-500">a national-level competition</span>.
           </p>
           <p
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently, I am working on two exciting projects - <span className="text-sky-500"> VideoTube</span>, a video streaming website inspired by YouTube, and <span className="text-sky-500"> StingHike </span> a self-earning app for a client. My strengths lie in being <span className="text-sky-500">hardworking, disciplined, and a team player </span>, as evidenced by my experience working with clients. While I tend to take time for decision-making, I believe in deep-diving into situations before making informed choices.
+            Currently, I am working at Intellewings as a <span className="text-sky-500">SDE Intern</span>. My strengths lie in being <span className="text-sky-500">hardworking, disciplined, and a team player</span>, as evidenced by my experience working with clients. While I tend to take time for decision-making, I believe in deep-diving into situations before making informed choices.
           </p>
         </div>
         <img
