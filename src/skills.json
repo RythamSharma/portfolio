@@ -29,10 +29,6 @@
     "path": "./react.svg"
   },
   {
-    "name": "Figma",
-    "path": "./figma.svg"
-  },
-  {
     "name": "Node.js",
     "path": "./nodejs-icon.svg"
   },
@@ -69,10 +65,6 @@
     "path": "./github.svg"
   },
   {
-    "name": "VS Code",
-    "path": "./visual-studio-code.svg"
-  },
-  {
     "name": "Java",
     "path": "./java.svg"
   },
@@ -83,6 +75,10 @@
   {
     "name": "Docker",
     "path": "./docker.svg"
+  },
+  {
+    "name": "Kubernetes",
+    "path": "./k8.svg"
   },
   {
     "name": "Postman",
@@ -99,6 +95,10 @@
   {
     "name": "Dot Net Core",
     "path": "./dot-net.svg"
+  },
+  {
+    "name": "Kafka",
+    "path": "./kafka.svg"
   }
 
 ]
