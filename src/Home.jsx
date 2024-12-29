@@ -15,7 +15,7 @@ export default function Home() {
           Rytham <span className="text-sky-500">Sharma</span>
         </p>
         <p className="title text-white text-2xl">
-         A Seasoned Full-Stack Developer
+         Bob, The Builder
         </p>
         <p className="socials text-white text-3xl flex gap-x-6 mt-2">
           <a href="mailto:sharmarytham2@gmail.com" target="_blank">
