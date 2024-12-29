@@ -38,9 +38,9 @@ export default function About() {
         <img
           src={profileImg}
           alt="rytham-sharma-img"
-          className="text-white img-rytham hover:shadow-[0_35px_80px_-15px_rgba(51,65,125,0.8)] hover:scale-105 transition-all duration-1000 ease-in-out"
+          className="text-white self-center img-rytham hover:shadow-[0_35px_80px_-15px_rgba(51,65,125,0.8)] hover:scale-105 transition-all duration-1000 ease-in-out"
           style={{
-            margin: "0rem 5rem 1rem 1rem",
+            // margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
             width: "20rem",
             position: "relative",
