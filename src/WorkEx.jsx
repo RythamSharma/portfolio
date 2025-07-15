@@ -37,11 +37,8 @@ export default function WorkEx() {
                   <em>May 2024 - Dec 2024</em>
                 </p>
                 <p className="text-gray-400 text-justify">
-                  As an SDE Intern at Intellewings, I am gaining valuable
-                  experience working with a diverse tech stack including Angular
-                  and .NET Core. My responsibilities involve developing and
-                  maintaining web applications, collaborating with cross-functional
-                  teams to design scalable solutions, and ensuring optimal
+                  As an SDE Intern at Intellewings, My responsibilities involve developing and
+                  maintaining web applications, ensuring optimal
                   performance and user experience. This role has allowed me to
                   enhance my proficiency in both frontend and backend
                   development, and apply best practices in software engineering
@@ -58,21 +55,15 @@ export default function WorkEx() {
                   <em>Sep 2023 - Oct 2023</em>
                 </p>
                 <p className="text-justify text-gray-400">
-                  I played a pivotal role as a Frontend Developer in a client
-                  project involving the creation of a self-earning app, designed
-                  to empower individuals to invest their money wisely.
-                  Throughout this experience, I honed my skills in ReactJS,
-                  TailwindCSS, and Redux state management, gaining a deeper
-                  understanding of frontend development. Collaborating within a
-                  team setting, I immersed myself in production-based coding
-                  practices, elevating my ability to create robust and
-                  user-friendly interfaces. The project not only enriched my
-                  technical proficiency but also provided valuable insights into
-                  the intricacies of user-centric design and effective
-                  collaboration within a development team. This hands-on
-                  experience further solidified my commitment to delivering
-                  seamless and engaging frontend solutions that align with both
-                  user expectations and industry standards.
+                 I played a pivotal role as a Frontend Developer in a client project 
+                 involving the creation of a self-earning investment app. This experience
+                  enhanced my expertise in ReactJS, TailwindCSS, and Redux state management 
+                  while working within a collaborative team environment.
+                 The project provided valuable insights into production-based coding practices
+                  and user-centric design principles. Through this hands-on experience, 
+                  I developed a engaging frontend solutions that aligned with both user
+                   expectations and industry standards, further solidifying my commitment to 
+                   delivering seamless user interfaces.
                 </p>
               </div>
             </div>
@@ -86,20 +77,13 @@ export default function WorkEx() {
                   <em>Jun 2023 - Aug 2023</em>
                 </p>
                 <p className="text-gray-400 text-justify">
-                  I acquired a foundational understanding of DevOps principles,
-                  delving into the fundamentals that drive collaborative
-                  software development and operational efficiency. My knowledge
-                  extends to Amazon Web Services (AWS), encompassing key aspects
-                  such as regions, Availability Zones (AZ), and core AWS
-                  services like EC2, IAM, S3, and CloudWatch. Venturing into
-                  containerization, I expanded my expertise to include Docker,
-                  mastering the creation and management of Docker images and
-                  containers. Proficiency in Docker Compose enabled me to
-                  effectively orchestrate containerized applications.
-                  Furthermore, I gained practical experience leveraging Docker
-                  Hub for streamlined deployment and distribution of containers,
-                  enhancing my skills in deploying scalable and efficient
-                  solutions within containerized environments.
+               I acquired foundational knowledge in DevOps principles, focusing on 
+               collaborative software development and operational efficiency. 
+               My expertise includes key Amazon Web Services (AWS) components such as
+                EC2, IAM, S3, and CloudWatch, along with understanding of regions and Availability Zones.
+               I expanded my skills in containerization through Docker, mastering image 
+               and container management, Docker Compose orchestration, and Docker Hub deployment.
+                This experience enhanced my ability to deploy scalable solutions within containerized environments.
                 </p>
               </div>
             </div>
