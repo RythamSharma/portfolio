@@ -32,7 +32,7 @@ export default function About() {
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently focused on expanding my expertise in distributed systems and emerging technologies while contributing to <span className="text-sky-500">impactful projects</span>  that make a difference.
+            Currently focused on expanding my expertise in distributed systems and <span className="text-sky-500">emerging technologies</span> while contributing to <span className="text-sky-500">impactful projects</span>  that make a difference.
           </p>
         </div>
         <img
