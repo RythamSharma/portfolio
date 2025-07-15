@@ -28,7 +28,7 @@ export default function WorkEx() {
                 </p>
               </div>
             </div>
-          <div className="timeline-block timeline-block-left">
+          <div className="timeline-block timeline-block-right">
               <div className="marker"></div>
               <div className="timeline-content">
                 <h3 className="text-sky-500">SDE Intern</h3>
