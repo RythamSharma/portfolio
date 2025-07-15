@@ -25,7 +25,7 @@ export default function About() {
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            With expertise spanning modern <span className="text-sky-500">web technologies, cloud solutions, and system design,</span> I've successfully delivered end-to-end solutions across diverse domains.
+            With expertise spanning modern <span className="text-sky-500">web technologies, cloud solutions, and system design,</span> I've successfully delivered <span className="text-sky-500">end-to-end solutions</span> across diverse domains.
             My experience includes <span className="text-sky-500">architecting scalable systems,</span>  developing user-centric applications, and collaborating with cross-functional teams to bring innovative ideas to life.
           </p>
           <p
