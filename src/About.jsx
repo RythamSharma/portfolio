@@ -19,20 +19,20 @@ export default function About() {
             className="introduction-para text-white"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently a <span className="text-sky-500">4th-year B.Tech student</span> at GLA University, Mathura, I am based in Uttar Pradesh. I am a results-driven
-            <span className="text-sky-500"> Full Stack Developer</span> proficient in technologies like <span className="text-sky-500">HTML, CSS, JavaScript, Angular, .NET, and the MERN stack</span>. My skills also include <span className="text-sky-500">Docker, Bootstrap, TailwindCSS, GitHub, and Postman.</span>
+            As a Full Stack Developer at Intellewings, I've successfully transitioned from academic pursuits to professional impact. My journey from intern to full-time <span className="text-sky-500">Software Development Engineer</span> reflects my commitment to continuous growth and delivering results.
           </p>
           <p
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            With a strong background in web development, I have successfully completed <span className="text-sky-500">over 15 projects</span>, including <span className="text-sky-500">personal projects</span>, <span className="text-sky-500">client projects</span>, and those from <span className="text-sky-500">hackathons</span>. Notably, I was nominated in the Smart India Hackathon (SIH) in 2023, <span className="text-sky-500">a national-level competition</span>.
+            With expertise spanning modern <span className="text-sky-500">web technologies, cloud solutions, and system design,</span> I've successfully delivered end-to-end solutions across diverse domains.
+            My experience includes <span className="text-sky-500">architecting scalable systems,</span>  developing user-centric applications, and collaborating with cross-functional teams to bring innovative ideas to life.
           </p>
           <p
             className="text-white introduction-para"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Currently, I am working at Intellewings as a <span className="text-sky-500">SDE Intern</span>. My strengths lie in being <span className="text-sky-500">hardworking, disciplined, and a team player</span>, as evidenced by my experience working with clients. While I tend to take time for decision-making, I believe in deep-diving into situations before making informed choices.
+            Currently focused on expanding my expertise in distributed systems and emerging technologies while contributing to <span className="text-sky-500">impactful projects</span>  that make a difference.
           </p>
         </div>
         <img
