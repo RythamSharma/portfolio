@@ -14,10 +14,27 @@ export default function WorkEx() {
           <div className="timeline-block timeline-block-left">
               <div className="marker"></div>
               <div className="timeline-content">
+                <h3 className="text-sky-500">SDE 1</h3>
+                <span className="text-white">Intellewings</span>
+                <p className="text-white mb-3">
+                  <em>Jan 2025 - Present</em>
+                </p>
+                <p className="text-gray-400 text-justify">
+                 As a Software Development Engineer at Intellewings, I contribute to
+                 developing and maintaining scalable and efficient web services while working
+                 with modern tech stacks. My role involves architecting scalable solutions, 
+                 collaborating with cross-functional teams, and ensuring optimal performance 
+                 and user experience across diverse projects.
+                </p>
+              </div>
+            </div>
+          <div className="timeline-block timeline-block-left">
+              <div className="marker"></div>
+              <div className="timeline-content">
                 <h3 className="text-sky-500">SDE Intern</h3>
                 <span className="text-white">Intellewings</span>
                 <p className="text-white mb-3">
-                  <em>May 2024 - Present</em>
+                  <em>May 2024 - Dec 2024</em>
                 </p>
                 <p className="text-gray-400 text-justify">
                   As an SDE Intern at Intellewings, I am gaining valuable
@@ -32,32 +49,6 @@ export default function WorkEx() {
                 </p>
               </div>
             </div>
-            <div className="timeline-block timeline-block-right">
-              <div className="marker"></div>
-              <div className="timeline-content">
-                <h3 className="text-sky-500">Web Developer Trainee</h3>
-                <span className="text-white">Cohort 2.0</span>
-                <p className="text-white mb-3">
-                  <em>Nov 2023 - May 2024</em>
-                </p>
-                <p className="text-gray-400 text-justify">
-                  I am pursuing an intensive web development training program,
-                  "Cohort 2.0," where I extensively covered MongoDB, React.js,
-                  Node.js, and Express.js. Through this program, I successfully
-                  executed practical projects, showcasing my adeptness in
-                  implementing authentication, hashing, and encryption
-                  techniques. The hands-on experience gained during the training
-                  allowed me to construct dynamic web applications, highlighting
-                  my proficiency in full-stack development and my ability to
-                  solve challenges in real-world scenarios. Embracing
-                  production-grade programming practices, I honed techniques
-                  essential for developing scalable and efficient web solutions,
-                  ensuring my readiness to contribute effectively to
-                  professional web development projects.
-                </p>
-              </div>
-            </div>
-
             <div className="timeline-block timeline-block-left">
               <div className="marker"></div>
               <div className="timeline-content">
